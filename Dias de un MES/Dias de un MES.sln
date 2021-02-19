@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dias de un MES", "Dias de un MES\Dias de un MES.csproj", "{EF2A33EA-EF76-46C9-86BF-4849BDA40F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2A33EA-EF76-46C9-86BF-4849BDA40F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2A33EA-EF76-46C9-86BF-4849BDA40F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2A33EA-EF76-46C9-86BF-4849BDA40F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2A33EA-EF76-46C9-86BF-4849BDA40F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59C036F0-A6B7-4ACA-BCC2-AA80C672963C}
+	EndGlobalSection
+EndGlobal

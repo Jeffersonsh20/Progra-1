@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dias de un MES/1.0.0": {
+        "runtime": {
+          "Dias de un MES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dias de un MES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

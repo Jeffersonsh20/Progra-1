@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.exe
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.deps.json
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.dll
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.pdb
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.dll
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.pdb
+C:\Users\Jefferson Molina\Desktop\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.genruntimeconfig.cache

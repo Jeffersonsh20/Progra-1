@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\bin\Debug\netcoreapp3.1\Dias de un MES.exe
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\bin\Debug\netcoreapp3.1\Dias de un MES.deps.json
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\bin\Debug\netcoreapp3.1\Dias de un MES.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\bin\Debug\netcoreapp3.1\Dias de un MES.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\bin\Debug\netcoreapp3.1\Dias de un MES.dll
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\bin\Debug\netcoreapp3.1\Dias de un MES.pdb
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\obj\Debug\netcoreapp3.1\Dias de un MES.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\obj\Debug\netcoreapp3.1\Dias de un MES.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\obj\Debug\netcoreapp3.1\Dias de un MES.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\obj\Debug\netcoreapp3.1\Dias de un MES.dll
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\obj\Debug\netcoreapp3.1\Dias de un MES.pdb
+C:\Users\Jefferson Molina\Desktop\Dias de un MES\Dias de un MES\obj\Debug\netcoreapp3.1\Dias de un MES.genruntimeconfig.cache
