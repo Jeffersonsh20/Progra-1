@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\bin\Debug\netcoreapp3.1\radianes e grad.exe
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\bin\Debug\netcoreapp3.1\radianes e grad.deps.json
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\bin\Debug\netcoreapp3.1\radianes e grad.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\bin\Debug\netcoreapp3.1\radianes e grad.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\bin\Debug\netcoreapp3.1\radianes e grad.dll
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\bin\Debug\netcoreapp3.1\radianes e grad.pdb
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\obj\Debug\netcoreapp3.1\radianes e grad.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\obj\Debug\netcoreapp3.1\radianes e grad.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\obj\Debug\netcoreapp3.1\radianes e grad.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\obj\Debug\netcoreapp3.1\radianes e grad.dll
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\obj\Debug\netcoreapp3.1\radianes e grad.pdb
+C:\Users\Jefferson Molina\Desktop\radianes e grad\radianes e grad\obj\Debug\netcoreapp3.1\radianes e grad.genruntimeconfig.cache

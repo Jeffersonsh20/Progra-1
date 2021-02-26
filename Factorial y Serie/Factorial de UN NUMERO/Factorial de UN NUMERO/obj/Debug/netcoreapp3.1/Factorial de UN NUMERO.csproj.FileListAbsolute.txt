@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\bin\Debug\netcoreapp3.1\Factorial de UN NUMERO.exe
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\bin\Debug\netcoreapp3.1\Factorial de UN NUMERO.deps.json
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\bin\Debug\netcoreapp3.1\Factorial de UN NUMERO.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\bin\Debug\netcoreapp3.1\Factorial de UN NUMERO.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\bin\Debug\netcoreapp3.1\Factorial de UN NUMERO.dll
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\bin\Debug\netcoreapp3.1\Factorial de UN NUMERO.pdb
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\obj\Debug\netcoreapp3.1\Factorial de UN NUMERO.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\obj\Debug\netcoreapp3.1\Factorial de UN NUMERO.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\obj\Debug\netcoreapp3.1\Factorial de UN NUMERO.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\obj\Debug\netcoreapp3.1\Factorial de UN NUMERO.dll
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\obj\Debug\netcoreapp3.1\Factorial de UN NUMERO.pdb
+C:\Users\Jefferson Molina\Desktop\Factorial de UN NUMERO\Factorial de UN NUMERO\obj\Debug\netcoreapp3.1\Factorial de UN NUMERO.genruntimeconfig.cache

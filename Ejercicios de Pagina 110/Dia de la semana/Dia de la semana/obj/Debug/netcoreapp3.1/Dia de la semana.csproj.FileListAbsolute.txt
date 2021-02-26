@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\bin\Debug\netcoreapp3.1\Dia de la semana.exe
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\bin\Debug\netcoreapp3.1\Dia de la semana.deps.json
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\bin\Debug\netcoreapp3.1\Dia de la semana.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\bin\Debug\netcoreapp3.1\Dia de la semana.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\bin\Debug\netcoreapp3.1\Dia de la semana.dll
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\bin\Debug\netcoreapp3.1\Dia de la semana.pdb
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\obj\Debug\netcoreapp3.1\Dia de la semana.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\obj\Debug\netcoreapp3.1\Dia de la semana.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\obj\Debug\netcoreapp3.1\Dia de la semana.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\obj\Debug\netcoreapp3.1\Dia de la semana.dll
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\obj\Debug\netcoreapp3.1\Dia de la semana.pdb
+C:\Users\Jefferson Molina\Desktop\Dia de la semana\Dia de la semana\obj\Debug\netcoreapp3.1\Dia de la semana.genruntimeconfig.cache

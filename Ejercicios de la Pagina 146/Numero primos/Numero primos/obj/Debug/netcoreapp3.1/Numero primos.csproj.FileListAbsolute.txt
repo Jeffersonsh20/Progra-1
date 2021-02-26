@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\bin\Debug\netcoreapp3.1\Numero primos.exe
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\bin\Debug\netcoreapp3.1\Numero primos.deps.json
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\bin\Debug\netcoreapp3.1\Numero primos.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\bin\Debug\netcoreapp3.1\Numero primos.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\bin\Debug\netcoreapp3.1\Numero primos.dll
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\bin\Debug\netcoreapp3.1\Numero primos.pdb
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\obj\Debug\netcoreapp3.1\Numero primos.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\obj\Debug\netcoreapp3.1\Numero primos.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\obj\Debug\netcoreapp3.1\Numero primos.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\obj\Debug\netcoreapp3.1\Numero primos.dll
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\obj\Debug\netcoreapp3.1\Numero primos.pdb
+C:\Users\Jefferson Molina\Desktop\Numero primos\Numero primos\obj\Debug\netcoreapp3.1\Numero primos.genruntimeconfig.cache

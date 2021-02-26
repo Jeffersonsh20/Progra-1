@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "radianes e grad/1.0.0": {
+        "runtime": {
+          "radianes e grad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "radianes e grad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

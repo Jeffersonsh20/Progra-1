@@ -1,0 +1,13 @@
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\bin\Debug\netcoreapp3.1\1. par o inparrr.exe
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\bin\Debug\netcoreapp3.1\1. par o inparrr.deps.json
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\bin\Debug\netcoreapp3.1\1. par o inparrr.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\bin\Debug\netcoreapp3.1\1. par o inparrr.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\bin\Debug\netcoreapp3.1\1. par o inparrr.dll
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\bin\Debug\netcoreapp3.1\1. par o inparrr.pdb
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\obj\Debug\netcoreapp3.1\1. par o inparrr.csprojAssemblyReference.cache
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\obj\Debug\netcoreapp3.1\1. par o inparrr.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\obj\Debug\netcoreapp3.1\1. par o inparrr.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\obj\Debug\netcoreapp3.1\1. par o inparrr.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\obj\Debug\netcoreapp3.1\1. par o inparrr.dll
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\obj\Debug\netcoreapp3.1\1. par o inparrr.pdb
+C:\Users\Jefferson Molina\Desktop\1. par o inparrr\1. par o inparrr\obj\Debug\netcoreapp3.1\1. par o inparrr.genruntimeconfig.cache

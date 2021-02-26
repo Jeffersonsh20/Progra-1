@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\bin\Debug\netcoreapp3.1\Perimetro y Area.exe
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\bin\Debug\netcoreapp3.1\Perimetro y Area.deps.json
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\bin\Debug\netcoreapp3.1\Perimetro y Area.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\bin\Debug\netcoreapp3.1\Perimetro y Area.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\bin\Debug\netcoreapp3.1\Perimetro y Area.dll
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\bin\Debug\netcoreapp3.1\Perimetro y Area.pdb
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\obj\Debug\netcoreapp3.1\Perimetro y Area.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\obj\Debug\netcoreapp3.1\Perimetro y Area.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\obj\Debug\netcoreapp3.1\Perimetro y Area.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\obj\Debug\netcoreapp3.1\Perimetro y Area.dll
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\obj\Debug\netcoreapp3.1\Perimetro y Area.pdb
+C:\Users\Jefferson Molina\Desktop\Perimetro y Area\Perimetro y Area\obj\Debug\netcoreapp3.1\Perimetro y Area.genruntimeconfig.cache

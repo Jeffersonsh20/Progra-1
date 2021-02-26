@@ -1,0 +1,13 @@
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\bin\Debug\netcoreapp3.1\Promedio de edades.exe
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\bin\Debug\netcoreapp3.1\Promedio de edades.deps.json
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\bin\Debug\netcoreapp3.1\Promedio de edades.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\bin\Debug\netcoreapp3.1\Promedio de edades.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\bin\Debug\netcoreapp3.1\Promedio de edades.dll
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\bin\Debug\netcoreapp3.1\Promedio de edades.pdb
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\obj\Debug\netcoreapp3.1\Promedio de edades.csprojAssemblyReference.cache
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\obj\Debug\netcoreapp3.1\Promedio de edades.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\obj\Debug\netcoreapp3.1\Promedio de edades.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\obj\Debug\netcoreapp3.1\Promedio de edades.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\obj\Debug\netcoreapp3.1\Promedio de edades.dll
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\obj\Debug\netcoreapp3.1\Promedio de edades.pdb
+C:\Users\Jefferson Molina\Desktop\Promedio de edades\Promedio de edades\obj\Debug\netcoreapp3.1\Promedio de edades.genruntimeconfig.cache

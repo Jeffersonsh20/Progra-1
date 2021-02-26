@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\bin\Debug\netcoreapp3.1\Serie de un NUMERO.exe
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\bin\Debug\netcoreapp3.1\Serie de un NUMERO.deps.json
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\bin\Debug\netcoreapp3.1\Serie de un NUMERO.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\bin\Debug\netcoreapp3.1\Serie de un NUMERO.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\bin\Debug\netcoreapp3.1\Serie de un NUMERO.dll
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\bin\Debug\netcoreapp3.1\Serie de un NUMERO.pdb
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\obj\Debug\netcoreapp3.1\Serie de un NUMERO.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\obj\Debug\netcoreapp3.1\Serie de un NUMERO.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\obj\Debug\netcoreapp3.1\Serie de un NUMERO.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\obj\Debug\netcoreapp3.1\Serie de un NUMERO.dll
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\obj\Debug\netcoreapp3.1\Serie de un NUMERO.pdb
+C:\Users\Jefferson Molina\Desktop\Serie de un NUMERO\Serie de un NUMERO\obj\Debug\netcoreapp3.1\Serie de un NUMERO.genruntimeconfig.cache

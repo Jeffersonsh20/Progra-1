@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\bin\Debug\netcoreapp3.1\impu del producto.exe
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\bin\Debug\netcoreapp3.1\impu del producto.deps.json
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\bin\Debug\netcoreapp3.1\impu del producto.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\bin\Debug\netcoreapp3.1\impu del producto.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\bin\Debug\netcoreapp3.1\impu del producto.dll
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\bin\Debug\netcoreapp3.1\impu del producto.pdb
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\obj\Debug\netcoreapp3.1\impu del producto.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\obj\Debug\netcoreapp3.1\impu del producto.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\obj\Debug\netcoreapp3.1\impu del producto.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\obj\Debug\netcoreapp3.1\impu del producto.dll
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\obj\Debug\netcoreapp3.1\impu del producto.pdb
+C:\Users\Jefferson Molina\Desktop\impu del producto\impu del producto\obj\Debug\netcoreapp3.1\impu del producto.genruntimeconfig.cache

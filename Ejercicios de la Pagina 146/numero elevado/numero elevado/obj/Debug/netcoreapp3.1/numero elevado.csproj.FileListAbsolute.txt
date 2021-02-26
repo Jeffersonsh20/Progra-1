@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.exe
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.deps.json
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.dll
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.pdb
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.dll
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.pdb
+C:\Users\Jefferson Molina\Desktop\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.genruntimeconfig.cache

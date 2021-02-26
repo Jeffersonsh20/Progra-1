@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\bin\Debug\netcoreapp3.1\tabla de Multipli.exe
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\bin\Debug\netcoreapp3.1\tabla de Multipli.deps.json
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\bin\Debug\netcoreapp3.1\tabla de Multipli.runtimeconfig.json
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\bin\Debug\netcoreapp3.1\tabla de Multipli.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\bin\Debug\netcoreapp3.1\tabla de Multipli.dll
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\bin\Debug\netcoreapp3.1\tabla de Multipli.pdb
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\obj\Debug\netcoreapp3.1\tabla de Multipli.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\obj\Debug\netcoreapp3.1\tabla de Multipli.AssemblyInfo.cs
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\obj\Debug\netcoreapp3.1\tabla de Multipli.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\obj\Debug\netcoreapp3.1\tabla de Multipli.dll
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\obj\Debug\netcoreapp3.1\tabla de Multipli.pdb
+C:\Users\Jefferson Molina\Desktop\tabla de Multipli\tabla de Multipli\obj\Debug\netcoreapp3.1\tabla de Multipli.genruntimeconfig.cache
