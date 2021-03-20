@@ -1,0 +1,12 @@
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\bin\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.exe
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\bin\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.deps.json
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\bin\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.runtimeconfig.json
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\bin\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\bin\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.dll
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\bin\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.pdb
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\obj\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\obj\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.AssemblyInfo.cs
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\obj\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\obj\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.dll
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\obj\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.pdb
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea5 Ejercicio 2\obj\Debug\netcoreapp3.1\Tarea5 Ejercicio 2.genruntimeconfig.cache
