@@ -1,0 +1,13 @@
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\bin\Debug\netcoreapp3.1\Tarea 5 Progra.exe
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\bin\Debug\netcoreapp3.1\Tarea 5 Progra.deps.json
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\bin\Debug\netcoreapp3.1\Tarea 5 Progra.runtimeconfig.json
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\bin\Debug\netcoreapp3.1\Tarea 5 Progra.runtimeconfig.dev.json
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\bin\Debug\netcoreapp3.1\Tarea 5 Progra.dll
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\bin\Debug\netcoreapp3.1\Tarea 5 Progra.pdb
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\obj\Debug\netcoreapp3.1\Tarea 5 Progra.csprojAssemblyReference.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\obj\Debug\netcoreapp3.1\Tarea 5 Progra.AssemblyInfoInputs.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\obj\Debug\netcoreapp3.1\Tarea 5 Progra.AssemblyInfo.cs
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\obj\Debug\netcoreapp3.1\Tarea 5 Progra.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\obj\Debug\netcoreapp3.1\Tarea 5 Progra.dll
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\obj\Debug\netcoreapp3.1\Tarea 5 Progra.pdb
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea 5 Progra\obj\Debug\netcoreapp3.1\Tarea 5 Progra.genruntimeconfig.cache
