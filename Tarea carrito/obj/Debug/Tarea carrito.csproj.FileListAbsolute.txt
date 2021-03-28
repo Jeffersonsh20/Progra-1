@@ -1,0 +1,15 @@
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\bin\Debug\Tarea carrito.exe.config
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\bin\Debug\Tarea carrito.exe
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\bin\Debug\Tarea carrito.pdb
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\obj\Debug\Tarea carrito.csprojAssemblyReference.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\obj\Debug\Tarea_carrito.Form1.resources
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\obj\Debug\Tarea_carrito.Properties.Resources.resources
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\obj\Debug\Tarea carrito.csproj.GenerateResource.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\obj\Debug\Tarea carrito.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\obj\Debug\Tarea carrito.exe
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\obj\Debug\Tarea carrito.pdb
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Tarea carrito\obj\Debug\Tarea carrito.csproj.ResolveComReference.cache

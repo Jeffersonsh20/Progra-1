@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea carrito", "Tarea carrito.csproj", "{A0120811-648C-45EC-BCC7-2858BC138E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0120811-648C-45EC-BCC7-2858BC138E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0120811-648C-45EC-BCC7-2858BC138E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0120811-648C-45EC-BCC7-2858BC138E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0120811-648C-45EC-BCC7-2858BC138E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5BC04DD-BE24-4B3A-BC16-38FFB9A456E5}
+	EndGlobalSection
+EndGlobal
