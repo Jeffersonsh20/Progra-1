@@ -1,0 +1,10 @@
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Arreglos\obj\Debug\Arreglos.csprojAssemblyReference.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Arreglos\obj\Debug\Arreglos.Form1.resources
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Jefferson Molina\OneDrive\Escritorio\Arreglos\obj\Debug\Arreglos.pdb
